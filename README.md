@@ -4,3 +4,5 @@ A stylized browser arcade survival game (Vampire Survivors-style) set on the Eas
 
 **Mature: stylized violence** - cartoon pixel blood and gore. No Nazi symbols are depicted.
 - Gore ON/OFF switch on the main menu (saved in localStorage, default ON): OFF = no blood, gibs, decals or corpses; enemies poof into dust.
+
+- **Mobile:** safe-area aware HUD, 46px tap targets, stacked level-up cards in portrait, scrollable menus, zoom/pull-to-refresh blocked, orientation handling.
